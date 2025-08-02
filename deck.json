@@ -1,0 +1,1151 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "fbb03c93-6f3d-11f0-90e7-75331faad3b6",
+    "deck_config_uuid": "fa0503cf-6f3d-11f0-9afa-75331faad3b6",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "fa0503cf-6f3d-11f0-9afa-75331faad3b6",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "1152px-Diablo_Canyon_Nuclear_Power_Plant.jpeg",
+        "1280px-Browns_ferry_NPP.jpg",
+        "1280px-David_Besse_NPP-2.jpg",
+        "1280px-PaloVerdeNuclearGeneratingStation.jpg",
+        "1280px-St._Lucie_Nuclear_Power_Plant_photo_D_Ramey_Logan.jpg",
+        "1920px-Calvert_Cliffs_retouched.jpeg",
+        "1920px-Clinton_power_station_pano.jpg",
+        "1920px-Columbia_Generating_Station_at_Hanford_Washington.JPG",
+        "1920px-McGuire_Nuclear_Station_from_lake_Norman.jpg",
+        "1920px-North_Anna_Power_Station_16x9.jpg",
+        "1920px-Sequoyah_Nuclear_Generating_Station.jpg",
+        "1920px-Susquehanna_Steam_Electric_Station_from_Council_Cup_1.JPG",
+        "20210811023627287.jpg",
+        "330px-Brunswick_NPP-2.jpg",
+        "330px-Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg",
+        "330px-Cooper_Nuclear_Station_-_June_2011_aerial.jpg",
+        "330px-HD.6B.285_(11842463663).jpg",
+        "330px-Perry_Nuclear_Plant_(2),_July_2020.jpg",
+        "330px-Prairie_Island_Nuclear_Generating_Plant.jpg",
+        "330px-River_Bend_Nuclear_Station,_Unit_1_(32540002895).jpg",
+        "330px-RusselvillePowerplant_b.jpg",
+        "330px-South_Texas_Nuclear_Generating_Station.jpg",
+        "720x463-nmp.jpeg",
+        "960px-Point_Beach_Nuclear_Plant.jpg",
+        "Beaver_Valley_Nuclear_Power_Plant.jpeg",
+        "Big_Rock_Point_Nuclear_Power_Plant_-_Aerial_View_001.jpeg",
+        "GrandGulfNuclear_001-1.jpg",
+        "Seabrook_2009-2.jpg",
+        "Virgil_C._Summer_Nuclear_Station_Unit_1.jpg",
+        "braidwood.jpeg",
+        "dc_cook.jpg",
+        "dresden.jpeg",
+        "farley4.jpeg",
+        "james-a-fitzpatrick-nuclear-power-plant.png",
+        "lasalle-county-generating-station.png",
+        "limerick-generating-station.png",
+        "lossy-page1-300px-TURKEY_POINT_NUCLEAR_PLANT_-_NARA_-_544495.tif.jpg",
+        "paste-0bee713f9404fbb8a67b65943d157437dd78c29e.jpg",
+        "paste-16e657a575a34bd3adeb84c710eb6f2e057c195b.jpg",
+        "paste-1ba0ad3d676557fadfb8d70e70629e1e6dc14f81.jpg",
+        "paste-2ff09cc2ff4ebd0d0416237c5de717f47a3fcf91.jpg",
+        "paste-4963051589edf9ca65380396838195542fbcf26d.jpg",
+        "paste-59dad1f22a01156c9ead6a9ec7eacebaab802aef.jpg",
+        "paste-5a57c444b264ce376670f11213a00212fcec8eb9.jpg",
+        "paste-5ad62558f1250a2d0e3e0c615ae44bc0a531aef8.jpg",
+        "paste-720709817816f100d85764ec4ca42e5277d83200.jpg",
+        "paste-75f8923531412528df971336c5049885c270acad.jpg",
+        "paste-7602ee5e5b9cddb4911108a241d091c3885515f0.jpg",
+        "paste-a972dc3590d7aabe5ea57246146341fcb32e4af6.jpg",
+        "paste-d0456b980951f26f08f8c0ee13d29c998a7e373e.jpg",
+        "paste-db6a6a9b208b19f2b11a327a3397d31237be4911.jpg",
+        "paste-ebebddf2ed7b71cfef5974e2072c597803e35861.jpg",
+        "paste.jpg",
+        "paste.png",
+        "quad-cities-hero.jpeg",
+        "wp-ROC-RocNext-9422-Ginna.png"
+    ],
+    "name": "US Nuclear Plants",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3657821824658062931,
+                    "name": "Photo",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 3239017051271637847,
+                    "name": "Name",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -239166182662997211,
+                    "name": "Type",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -8511139794092099677,
+                    "name": "Location",
+                    "ord": 3,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "Year closed, if closed down",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1502406217565395059,
+                    "name": "Closed",
+                    "ord": 4,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "Electrical power of plant",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -6514034295561699282,
+                    "name": "Power",
+                    "ord": 5,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 213047784819292377,
+                    "name": "Fact",
+                    "ord": 6,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Name}}\n<br/>\n{{Location}}\n<br/>\n{{Type}}\n<br/>\n{{Power}}\n<br/>\nStatus: {{#Closed}}Closed in {{Closed}}{{/Closed}}{{^Closed}}Operational{{/Closed}}\n<br/><br/>\n{{Fact}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "{{Photo}}",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -2248819086321813384,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Photo}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Photo}}\n<br/>\n{{Location}}\n<br/>\n{{Type}}\n<br/>\n{{Power}}\n<br/>\nStatus: {{#Closed}}Closed in {{Closed}}{{/Closed}}{{^Closed}}Operational{{/Closed}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "{{Photo}}",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 3125327556646797113,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Name}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"1152px-Diablo_Canyon_Nuclear_Power_Plant.jpeg\">",
+                "Diablo Canyon",
+                "2-unit WH 4-loop PWR",
+                "San Luis Obispo County, CA",
+                "",
+                "2256 MWe total",
+                ""
+            ],
+            "guid": "r%|C>MJI]u",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Big_Rock_Point_Nuclear_Power_Plant_-_Aerial_View_001.jpeg\">",
+                "Big Rock Point",
+                "GE BWR Gen I",
+                "Charlevoix, MI",
+                "1997",
+                "67 MWe",
+                "Used to be targeted by B-52s in practice bombing runs"
+            ],
+            "guid": "u,`4b<k?[R",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Beaver_Valley_Nuclear_Power_Plant.jpeg\">",
+                "Beaver Valley",
+                "WH 3-loop",
+                "Shippingport, PA",
+                "",
+                "980 MWe + 960 MWe",
+                "Unit 1 was the reference design for the French PWR fleet"
+            ],
+            "guid": "u[aIX;U?P2",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"1920px-Calvert_Cliffs_retouched.jpeg\">",
+                "Calvert Cliffs",
+                "CE 2-loop PWR",
+                "Calvert County, MD",
+                "",
+                "863 MW + 855 MW",
+                "Only NPP in Maryland"
+            ],
+            "guid": "hz,7yvOJvl",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"james A. Fitzpatrick facility\" src=\"james-a-fitzpatrick-nuclear-power-plant.png\">",
+                "James A. FitzPatrick",
+                "BWR-4 (Mark 1)",
+                "Scriba, NY",
+                "",
+                "813 MW",
+                ""
+            ],
+            "guid": "t=Op3b&yuu",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Ginna Nuclear Power Plant\" src=\"wp-ROC-RocNext-9422-Ginna.png\">",
+                "Ginna",
+                "WH 2-loop PWR",
+                "Ontario, NY",
+                "",
+                "580 MW",
+                "Similar to Point Beach and Praire Island"
+            ],
+            "guid": "xcWo~V;fK$",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-a972dc3590d7aabe5ea57246146341fcb32e4af6.jpg\">",
+                "Hope Creek",
+                "GE BWR-4 Mark 1",
+                "Salem County, NJ",
+                "",
+                "1172 MW",
+                "On same artificial island as Salem"
+            ],
+            "guid": "dKrzIui-78",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-720709817816f100d85764ec4ca42e5277d83200.jpg\">",
+                "Salem",
+                "WH 4-loop PWR",
+                "Salem County, NJ",
+                "",
+                "1169 MW + _1158 MW",
+                "Same place as Hope Creek"
+            ],
+            "guid": "nb6MeOcQ,4",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"limerick generating station\" src=\"limerick-generating-station.png\">",
+                "<b>Limerick</b>",
+                "GE BWR-4 (Mark II)",
+                "Limerick Township, PA",
+                "",
+                "1130 MW + 1134 MW",
+                ""
+            ],
+            "guid": "CHC?%Ts!K)",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Assembly has until March 1 to review Millstone nuclear plant report\" src=\"paste.jpg\">",
+                "Millstone",
+                "CE 2-loop PWR &amp; WH 4-loop PWR",
+                "Waterford, CT",
+                "1998 (Unit 1), Units 2 + 3 operational",
+                "869 MW + 1229 MW",
+                "Only NPP in Connecticut"
+            ],
+            "guid": "tAs]c0;{li",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Nine mile generating station\" src=\"720x463-nmp.jpeg\">",
+                "Nine Mile Point",
+                "GE BWR-2 (Mark 1) and BWR-5 (Mark 2)",
+                "Oswego, NY",
+                "",
+                "644 MW + 1375 MW",
+                "Constellation planned to submit a COL for another unit in 2008 but withdrew it"
+            ],
+            "guid": "bs?C|F=dxf",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Peach Bottom Atomic Power Station Receives International Habitat ...\" src=\"paste-d0456b980951f26f08f8c0ee13d29c998a7e373e.jpg\">",
+                "Peach Bottom",
+                "HTGR (closed) &amp; 2 BWR-4s (Mark 1)",
+                "York County, PA",
+                "1974 (Unit 1), Units 2-3 operational",
+                "1308 MW + 1309 MW",
+                "Unit 1 was the USA's first demo HTGR but it couldn't compete with the big BWRs"
+            ],
+            "guid": "l~?4uYBF8&",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"Seabrook_2009-2.jpg\">",
+                "Seabrook",
+                "WH 4-loop PWR",
+                "Seabrook, NH",
+                "",
+                "1246 MW",
+                "Mass protests during construction, 1400 people arrested at the biggest"
+            ],
+            "guid": "nO]C0ulUpx",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"1920px-Susquehanna_Steam_Electric_Station_from_Council_Cup_1.JPG\">",
+                "Susquehanna",
+                "BWR-4 Mark II",
+                "Salem Township, PA",
+                "",
+                "2 x 1350 MW",
+                "Has a data center hooked up to it"
+            ],
+            "guid": "k]g6FkeC=-",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Browns Ferry Nuclear Power Plant (NRC image)\" src=\"1280px-Browns_ferry_NPP.jpg\">",
+                "Browns Ferry",
+                "BWR-4 Mark 1",
+                "Athens, AL",
+                "",
+                "1256 + 1259 + 1260",
+                "Unit 1 had a bad fire in 1975 that led to major changes in fire regulations"
+            ],
+            "guid": "c})i6sE[YI",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"330px-Brunswick_NPP-2.jpg\">",
+                "Brunswick",
+                "GE BWR-4 Mark 1",
+                "Brunswick Co, NC",
+                "",
+                "938 MW + 920 MW",
+                ""
+            ],
+            "guid": "m&<ffD_0xH",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-1ba0ad3d676557fadfb8d70e70629e1e6dc14f81.jpg\">",
+                "Catawba",
+                "WH 4-loop ice",
+                "York, SC",
+                "",
+                "2x 1155 MW",
+                "Used 4 MOX assemblies in 2005 (supplied by the French)"
+            ],
+            "guid": "F+.iS^Uz<2",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Aerial view of Southern Nuclear's Plant Farley, with steam-rising cooling towers and industrial buildings surrounded by dense green forest.\" src=\"farley4.jpeg\">",
+                "Farley",
+                "WH 3-loop",
+                "Dothan, AL",
+                "",
+                "874 MW + 883 MW",
+                ""
+            ],
+            "guid": "F#LtF^iQN%",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Harris Nuclear knows a healthy forest takes work | Duke Energy ...\" src=\"paste-75f8923531412528df971336c5049885c270acad.jpg\">",
+                "Harris",
+                "WH 3-loop",
+                "New Hill, NC",
+                "",
+                "928 MW",
+                ""
+            ],
+            "guid": "PBeRv&:;b9",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Plant Hatch | Edwin I. Hatch Nuclear Power Plant in Georgia\" src=\"paste-ebebddf2ed7b71cfef5974e2072c597803e35861.jpg\">",
+                "Hatch",
+                "BWR-4 Mark 1",
+                "Baxley, GA",
+                "",
+                "876 MW + 883 MW",
+                ""
+            ],
+            "guid": "lkNx`w~0,8",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"1920px-McGuire_Nuclear_Station_from_lake_Norman.jpg\">",
+                "McGuire",
+                "WH 4-loop ice",
+                "17 miles N of Charolett, NC",
+                "",
+                "2x 1158 MW",
+                ""
+            ],
+            "guid": "E/vwl[YPAy",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Photograph of North Anna Nuclear Power Plant\" src=\"1920px-North_Anna_Power_Station_16x9.jpg\">",
+                "North Anna",
+                "WH 3-loop",
+                "Louisa Co, VA",
+                "",
+                "948 MW + 944 MW",
+                ""
+            ],
+            "guid": "g98Lb>{G%Z",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Oconee Nuclear Station Celebrates 40 Years of Operation | Duke Energy ...\" src=\"paste-2ff09cc2ff4ebd0d0416237c5de717f47a3fcf91.jpg\">",
+                "Oconee",
+                "B&amp;W PWR",
+                "Seneca, SC",
+                "",
+                "847 MW + 848 MW + 859 MW",
+                ""
+            ],
+            "guid": "Rie>3M8K@N",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Photo | Duke-Energy-Robinson-Nuclear-Plant | Duke Energy | News Center\" src=\"paste-0bee713f9404fbb8a67b65943d157437dd78c29e.jpg\">",
+                "Robinson",
+                "WH 3-loop",
+                "Hartsville, SC",
+                "",
+                "759 MW",
+                "USed to be next to a coal plant, but that was demolished."
+            ],
+            "guid": "G&WbL!+0|/",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"1920px-Sequoyah_Nuclear_Generating_Station.jpg\">",
+                "Sequoyah",
+                "WH 4-loop ice",
+                "Chattanooga, TN",
+                "",
+                "2x 1200 MW",
+                "Sister plant is Watts Bar"
+            ],
+            "guid": "L:<OlvQm5X",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"1280px-St._Lucie_Nuclear_Power_Plant_photo_D_Ramey_Logan.jpg\">",
+                "St. Lucie",
+                "CE 2-loop",
+                "Port St. Lucie, FL",
+                "",
+                "2x 940 MW",
+                ""
+            ],
+            "guid": "y*fT>:$Deq",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"Virgil_C._Summer_Nuclear_Station_Unit_1.jpg\">",
+                "VC Summer",
+                "WH 3-loop",
+                "Jenkinsville, SC",
+                "",
+                "973 MW",
+                "Also site of failed expansion with 2 AP1000s, aka \"Nukegate\". Also, the decommissioned heavy water reactor, CVTR, is on the same site."
+            ],
+            "guid": "Kx?tNe{~j",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Dominion Virginia Power Plan Sees More Clean Energy\" src=\"paste-5a57c444b264ce376670f11213a00212fcec8eb9.jpg\">",
+                "Surry",
+                "WH 3-loop&nbsp;",
+                "Surry Co, VA",
+                "",
+                "2x 838 MW",
+                ""
+            ],
+            "guid": "kZ52E{,Tvi",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"lossy-page1-300px-TURKEY_POINT_NUCLEAR_PLANT_-_NARA_-_544495.tif.jpg\">",
+                "Turkey Point",
+                "WH 3-loop PWR",
+                "25 miles south of Miami, FL",
+                "",
+                "2x 802 MW",
+                "co-located with 2 retired fossil plants and 1 1150 MW CCGT"
+            ],
+            "guid": "oAf.Ae]d[T",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Importante avance en la puesta en marcha de un nuevo reactor de la ...\" src=\"paste.png\">",
+                "Vogtle",
+                "2x WH 4-loop PWR + 2x WH AP1000 PWRs",
+                "Waynesboro, GA",
+                "",
+                "2x 1150 MW &amp; 2x 1117 MW",
+                "The first AP1000s in the USA are here"
+            ],
+            "guid": "u-A^-2JNCi",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Watts Bar Nuclear Plant tests response | Chattanooga Times Free Press\" src=\"paste-7602ee5e5b9cddb4911108a241d091c3885515f0.jpg\">",
+                "Watts Bar",
+                "WH&nbsp; 4-loop ice",
+                "Spring City, TN",
+                "",
+                "2x 1167",
+                "Produces tritium for US nuclear weapons"
+            ],
+            "guid": "AC?Z*zgn,F",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Braidwood Clean Energy Center\" src=\"braidwood.jpeg\">",
+                "Braidwood",
+                "WH 3-loop PWR",
+                "Northeastern IL",
+                "",
+                "1194 MW + 1160 MW",
+                ""
+            ],
+            "guid": "g%Z)ih><zJ",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-db6a6a9b208b19f2b11a327a3397d31237be4911.jpg\">",
+                "Byron",
+                "WH 4-loop PWR",
+                "Rockford, IL",
+                "",
+                "1164 MW + 1136 MW",
+                ""
+            ],
+            "guid": "iJJ{a0:jtR",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"1920px-Clinton_power_station_pano.jpg\">",
+                "Clinton",
+                "BWR-6 Mark 3",
+                "Clinton, IL",
+                "",
+                "1138 MW",
+                ""
+            ],
+            "guid": "y6AfJJ[#T]",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"https://whatisnuclear.com/img/dc_cook.jpg\" src=\"dc_cook.jpg\">",
+                "D. C. Cook",
+                "WH 4-loop ice",
+                "Bridgeman, MI",
+                "",
+                "1045 MW + 1168 MW",
+                ""
+            ],
+            "guid": "oK-2E;I7FI",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"The Davis–Besse NPP (NRC image)\" src=\"1280px-David_Besse_NPP-2.jpg\">",
+                "Davis–Besse",
+                "B&amp;W RLP",
+                "Oak Harbor, OH",
+                "",
+                "894 MW",
+                "Had 1985 loss of feedwater and 2002 reactor head hole"
+            ],
+            "guid": "gB8^bz-h0",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Dresden Generating Station\" src=\"dresden.jpeg\">",
+                "Dresden",
+                "GE BWR-3 Mark 1",
+                "Morris, IL",
+                "",
+                "902 MW + 895 MW",
+                "Unit 1 was first privately financed power reactor in US"
+            ],
+            "guid": "n9b-]+gp2^",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Fermi 2 nuclear plant is down after transformer problem | Crain's ...\" src=\"paste-5ad62558f1250a2d0e3e0c615ae44bc0a531aef8.jpg\">",
+                "Fermi",
+                "GE BWR/4 Mark 1",
+                "Monroe Co, MI",
+                "1972 (unit 1 SFR), Unit 2 operational",
+                "1202 MW",
+                "Fermi 1 was a very early US SFR demo unit. It had bad opex"
+            ],
+            "guid": "dv]vJ3)1rJ",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"LaSalle Clean Energy Center\" src=\"lasalle-county-generating-station.png\">",
+                "LaSalle",
+                "GE BWR-5 Mark 2",
+                "Brookfield Township, IL",
+                "",
+                "1137 MW + 1140 MW",
+                ""
+            ],
+            "guid": "Bk:aH#{!4|",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Monticello Nuclear Generating Plant Hosting Open House - North Wright ...\" src=\"paste-16e657a575a34bd3adeb84c710eb6f2e057c195b.jpg\">",
+                "Monticello",
+                "GE BWR-3 Mark 1",
+                "Monticello, MN",
+                "",
+                "647",
+                ""
+            ],
+            "guid": "m1B.ThbeUA",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"330px-HD.6B.285_(11842463663).jpg\">",
+                "Palisades",
+                "CE 2-loop PWR",
+                "Covert Township, MI",
+                "2022, but being turned back on!",
+                "805 MW",
+                ""
+            ],
+            "guid": "H_-N^?,CWA",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"330px-Perry_Nuclear_Plant_(2),_July_2020.jpg\">",
+                "Perry",
+                "GE BWR-6 Mark III",
+                "North Perry, OH",
+                "",
+                "1256 MW",
+                ""
+            ],
+            "guid": "Fj><VZ-Za4",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"960px-Point_Beach_Nuclear_Plant.jpg\">",
+                "Point Beach",
+                "WH 2-loop PWR",
+                "Two Creeks, WI",
+                "",
+                "2 × 625 MW",
+                ""
+            ],
+            "guid": "Q1-%E-[IMs",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"330px-Prairie_Island_Nuclear_Generating_Plant.jpg\">",
+                "Prairie Island",
+                "WH 2-loop PWR",
+                "Red Wing, MN",
+                "",
+                "522 MW + 519 MW",
+                ""
+            ],
+            "guid": "Q:(QJ&%lc9",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"quad cities generating station\" src=\"quad-cities-hero.jpeg\">",
+                "Quad Cities",
+                "GE BWR-3 Mark 1",
+                "Cordova, IL",
+                "",
+                "908 MW + 911 MW",
+                ""
+            ],
+            "guid": "j0Wiv`>j8C",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"330px-RusselvillePowerplant_b.jpg\">",
+                "Arkansas (ANO)",
+                "B&amp;W LLP and CE 2-loop",
+                "Russellville, AR",
+                "",
+                "836 MW + 988",
+                ""
+            ],
+            "guid": "Hq,r.j#OxK",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"20210811023627287.jpg\">",
+                "Callaway",
+                "WH 4-loop&nbsp;",
+                "Fulton, MO",
+                "",
+                "1215 MW",
+                "SNUPPS plant, an attempt to standardize nuclear"
+            ],
+            "guid": "P_(@LvR0v8",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"1920px-Columbia_Generating_Station_at_Hanford_Washington.JPG\">",
+                "Columbia Generating Station",
+                "GE BWR-5 (Mark 2)",
+                "Richland, WA",
+                "",
+                "1216 MW",
+                ""
+            ],
+            "guid": "ma<j9AyK92",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"330px-Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg\">",
+                "Comanche Peak",
+                "WH 4-loop PWR",
+                "Glen Rose, Texas",
+                "",
+                "1218 MW + 1207 MW",
+                ""
+            ],
+            "guid": "ik5+xO#<ow",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"The reactor complex on June 20, 2011 during the 2011 Missouri River Floods\" src=\"330px-Cooper_Nuclear_Station_-_June_2011_aerial.jpg\">",
+                "Cooper",
+                "GE BWR-4 Mark I",
+                "Brownville, Nebraska",
+                "",
+                "769 MW",
+                ""
+            ],
+            "guid": "Mr8a@IWa3C",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"\" src=\"GrandGulfNuclear_001-1.jpg\">",
+                "Grand Gulf",
+                "GE BWR-6 Mark 3",
+                "Port Gibson, MS",
+                "",
+                "1443 MW",
+                "Highest power reactor in the US"
+            ],
+            "guid": ">S.1uQ(c=",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"undefined\" src=\"1280px-PaloVerdeNuclearGeneratingStation.jpg\">",
+                "Palo Verde",
+                "CE80 2-loop PWR",
+                "Tonopah, Arizona",
+                "",
+                "3 × 1400 MW",
+                "USes treated sewage water for cooling"
+            ],
+            "guid": "lhA[}&b1KC",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"330px-River_Bend_Nuclear_Station,_Unit_1_(32540002895).jpg\">",
+                "River Bend",
+                "GE BWR-6 Mark 3",
+                "St. Francisville, LA",
+                "",
+                "974 MW",
+                ""
+            ],
+            "guid": "x5yj13lutK",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"South Texas Project, Units 1 and 2 (NRC image)\" src=\"330px-South_Texas_Nuclear_Generating_Station.jpg\">",
+                "South Texas",
+                "WH 4-loop PWR",
+                "Bay City, Texas",
+                "",
+                "<table><tbody><tr><th></th><td>2 × 1280 MW</td></tr></tbody></table>",
+                "Had letter of intent to build 2 ABWRs in 2006"
+            ],
+            "guid": "LG[-)KL[pk",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Waterford Steam Electric Station, Unit 3 | Waterford Steam E… | Flickr\" src=\"paste-4963051589edf9ca65380396838195542fbcf26d.jpg\">",
+                "Waterford",
+                "CE 2-loop PWR",
+                "Killona, LA",
+                "",
+                "1 × 1152 MW",
+                ""
+            ],
+            "guid": "ePQH.pmdt#",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img alt=\"Wolf Creek Generating Station, Unit 1 | Wolf Creek Generatin… | Flickr\" src=\"paste-59dad1f22a01156c9ead6a9ec7eacebaab802aef.jpg\">",
+                "Wolf Creek",
+                "WH 4-loop PWR",
+                "Burlington, KS",
+                "",
+                "1 × 1200 MW",
+                ""
+            ],
+            "guid": "QOE{^|T*yC",
+            "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
