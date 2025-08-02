@@ -33,5 +33,5 @@ Cards with answers look like this:
 
 If you have changes or corrections, you can make them against the json file in
 this repo. This is using the
-[AnkiCrowd](https://ankiweb.net/shared/info/1788670778) plugin to enable
+[CrowdAnki](https://ankiweb.net/shared/info/1788670778) plugin to enable
 git-style revision control.
