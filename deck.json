@@ -91,24 +91,24 @@
         "1920px-Columbia_Generating_Station_at_Hanford_Washington.JPG",
         "1920px-McGuire_Nuclear_Station_from_lake_Norman.jpg",
         "1920px-North_Anna_Power_Station_16x9.jpg",
+        "1920px-Perry_Nuclear_Plant_(2),_July_2020.jpg",
+        "1920px-Prairie_Island_Nuclear_Generating_Plant.jpg",
+        "1920px-River_Bend_Nuclear_Station,_Unit_1_(32540002895).jpg",
         "1920px-Sequoyah_Nuclear_Generating_Station.jpg",
         "1920px-Susquehanna_Steam_Electric_Station_from_Council_Cup_1.JPG",
         "20210811023627287.jpg",
-        "330px-Brunswick_NPP-2.jpg",
-        "330px-Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg",
-        "330px-Cooper_Nuclear_Station_-_June_2011_aerial.jpg",
         "330px-HD.6B.285_(11842463663).jpg",
-        "330px-Perry_Nuclear_Plant_(2),_July_2020.jpg",
-        "330px-Prairie_Island_Nuclear_Generating_Plant.jpg",
-        "330px-River_Bend_Nuclear_Station,_Unit_1_(32540002895).jpg",
-        "330px-RusselvillePowerplant_b.jpg",
-        "330px-South_Texas_Nuclear_Generating_Station.jpg",
         "720x463-nmp.jpeg",
+        "960px-Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg",
         "960px-Point_Beach_Nuclear_Plant.jpg",
         "Beaver_Valley_Nuclear_Power_Plant.jpeg",
         "Big_Rock_Point_Nuclear_Power_Plant_-_Aerial_View_001.jpeg",
+        "Brunswick_NPP-2.jpg",
+        "Cooper_Nuclear_Station_-_June_2011_aerial.jpg",
         "GrandGulfNuclear_001-1.jpg",
+        "RusselvillePowerplant_b.jpg",
         "Seabrook_2009-2.jpg",
+        "South_Texas_Nuclear_Generating_Station.jpg",
         "Virgil_C._Summer_Nuclear_Station_Unit_1.jpg",
         "braidwood.jpeg",
         "dc_cook.jpg",
@@ -389,7 +389,7 @@
                 "Ontario, NY",
                 "",
                 "580 MW",
-                "Similar to Point Beach and Praire Island"
+                "Pronounced \"gun - aye\". Similar to Point Beach and Praire Island"
             ],
             "guid": "xcWo~V;fK$",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -429,7 +429,7 @@
             "__type__": "Note",
             "fields": [
                 "<img alt=\"limerick generating station\" src=\"limerick-generating-station.png\">",
-                "<b>Limerick</b>",
+                "Limerick",
                 "GE BWR-4 (Mark II)",
                 "Limerick Township, PA",
                 "",
@@ -533,7 +533,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"330px-Brunswick_NPP-2.jpg\">",
+                "<img alt=\"undefined\" src=\"Brunswick_NPP-2.jpg\">",
                 "Brunswick",
                 "GE BWR-4 Mark 1",
                 "Brunswick Co, NC",
@@ -923,7 +923,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"330px-Perry_Nuclear_Plant_(2),_July_2020.jpg\">",
+                "<img alt=\"undefined\" src=\"1920px-Perry_Nuclear_Plant_(2),_July_2020.jpg\">",
                 "Perry",
                 "GE BWR-6 Mark III",
                 "North Perry, OH",
@@ -953,7 +953,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"330px-Prairie_Island_Nuclear_Generating_Plant.jpg\">",
+                "<img alt=\"undefined\" src=\"1920px-Prairie_Island_Nuclear_Generating_Plant.jpg\">",
                 "Prairie Island",
                 "WH 2-loop PWR",
                 "Red Wing, MN",
@@ -983,7 +983,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"330px-RusselvillePowerplant_b.jpg\">",
+                "<img alt=\"undefined\" src=\"RusselvillePowerplant_b.jpg\">",
                 "Arkansas (ANO)",
                 "B&amp;W LLP and CE 2-loop",
                 "Russellville, AR",
@@ -1028,7 +1028,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"330px-Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg\">",
+                "<img alt=\"File:Comanche Peak Nuclear Power Plant August 2017 (cropped).jpg\" src=\"960px-Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg\">",
                 "Comanche Peak",
                 "WH 4-loop PWR",
                 "Glen Rose, Texas",
@@ -1043,7 +1043,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img alt=\"The reactor complex on June 20, 2011 during the 2011 Missouri River Floods\" src=\"330px-Cooper_Nuclear_Station_-_June_2011_aerial.jpg\">",
+                "<img alt=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Cooper_Nuclear_Station_-_June_2011_aerial.jpg\" src=\"Cooper_Nuclear_Station_-_June_2011_aerial.jpg\"><br>",
                 "Cooper",
                 "GE BWR-4 Mark I",
                 "Brownville, Nebraska",
@@ -1079,7 +1079,7 @@
                 "Tonopah, Arizona",
                 "",
                 "3 × 1400 MW",
-                "USes treated sewage water for cooling"
+                "Uses treated sewage water for cooling"
             ],
             "guid": "lhA[}&b1KC",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -1088,7 +1088,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"330px-River_Bend_Nuclear_Station,_Unit_1_(32540002895).jpg\">",
+                "<img alt=\"undefined\" src=\"1920px-River_Bend_Nuclear_Station,_Unit_1_(32540002895).jpg\">",
                 "River Bend",
                 "GE BWR-6 Mark 3",
                 "St. Francisville, LA",
@@ -1103,7 +1103,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img alt=\"South Texas Project, Units 1 and 2 (NRC image)\" src=\"330px-South_Texas_Nuclear_Generating_Station.jpg\">",
+                "<img alt=\"South Texas Project, Units 1 and 2 (NRC image)\" src=\"South_Texas_Nuclear_Generating_Station.jpg\">",
                 "South Texas",
                 "WH 4-loop PWR",
                 "Bay City, Texas",
