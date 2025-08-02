@@ -25,7 +25,7 @@ Cards with answers look like this:
 ## To use
 
 * Get [Anki](https://apps.ankiweb.net/) on your phone or computer
-* Download the latest version of this deck from the Releases page
+* Download the latest version (.apkg file) of this deck from the [Releases page](https://github.com/whatisnuclear/nuclear-plant-anki-deck/releases)
 * Enjoy!
 
 ## To update
