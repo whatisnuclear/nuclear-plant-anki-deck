@@ -78,7 +78,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 10,
     "extendRev": 0,
     "media_files": [
         "1152px-Diablo_Canyon_Nuclear_Power_Plant.jpeg",
@@ -374,7 +374,7 @@
                 "Scriba, NY",
                 "",
                 "813 MW",
-                ""
+                "On same site as Nine Mile Point"
             ],
             "guid": "t=Op3b&yuu",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -464,7 +464,7 @@
                 "Oswego, NY",
                 "",
                 "644 MW + 1375 MW",
-                "Constellation planned to submit a COL for another unit in 2008 but withdrew it"
+                "Constellation planned to submit a COL for another unit in 2008 but withdrew it. On same site as FitzPatrick"
             ],
             "guid": "bs?C|F=dxf",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
