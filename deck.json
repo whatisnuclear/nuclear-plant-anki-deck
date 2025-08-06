@@ -314,7 +314,7 @@
                 "San Luis Obispo County, CA",
                 "",
                 "2256 MWe total",
-                ""
+                "Seismic supports were originally installed backwards and had to be redone"
             ],
             "guid": "r%|C>MJI]u",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -449,7 +449,7 @@
                 "Waterford, CT",
                 "1998 (Unit 1), Units 2 + 3 operational",
                 "869 MW + 1229 MW",
-                "Only NPP in Connecticut"
+                "Only NPP in Connecticut. The soles on a worker's boots were reportedly melted when the operating crew offloaded spent fuel from Unit 1 too early after shutdown, which was against NRC regulations."
             ],
             "guid": "tAs]c0;{li",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -539,7 +539,7 @@
                 "Brunswick Co, NC",
                 "",
                 "938 MW + 920 MW",
-                ""
+                "Unit 2 completed two years before Unit 1"
             ],
             "guid": "m&<ffD_0xH",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -779,7 +779,7 @@
                 "Northeastern IL",
                 "",
                 "1194 MW + 1160 MW",
-                ""
+                "Twin to Byron; licensed together in the same FSAR"
             ],
             "guid": "g%Z)ih><zJ",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -794,7 +794,7 @@
                 "Rockford, IL",
                 "",
                 "1164 MW + 1136 MW",
-                ""
+                "Twin to Braidwood; licensed together in the same FSAR"
             ],
             "guid": "iJJ{a0:jtR",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -929,7 +929,7 @@
                 "North Perry, OH",
                 "",
                 "1256 MW",
-                ""
+                "Second unit was abandoned at about half completion"
             ],
             "guid": "Fj><VZ-Za4",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -989,7 +989,7 @@
                 "Russellville, AR",
                 "",
                 "836 MW + 988",
-                ""
+                "Unit 1 NSSS is from Babcock & Wilcox, while Unit 2 NSSS is from Combustion Engineering, but both units have similar containment structures and share the balance of plant"
             ],
             "guid": "Hq,r.j#OxK",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -1019,7 +1019,7 @@
                 "Richland, WA",
                 "",
                 "1216 MW",
-                ""
+                "Only WPPPS reactor (out of five total) to finish construction"
             ],
             "guid": "ma<j9AyK92",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
@@ -1139,7 +1139,7 @@
                 "Burlington, KS",
                 "",
                 "1 × 1200 MW",
-                ""
+                "A squirrel caused the reactor to SCRAM in 2000"
             ],
             "guid": "QOE{^|T*yC",
             "note_model_uuid": "fbb052f4-6f3d-11f0-8f3a-75331faad3b6",
